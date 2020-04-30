@@ -1,0 +1,10 @@
+body{
+    background:url('https://img.freepik.com/free-photo/digital-technology-network-data-communication-concept-abstract-background-earth-element-furnished-by-nasa_24070-629.jpg?size=626&ext=jpg') no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.main{
+    background-color: rgba(255, 255, 255, 0.61);
+}
